@@ -30,8 +30,3 @@ The dashboard helps identify revenue patterns, top-performing products, high-per
 ## Skills Demonstrated
 Data Analysis | Data Visualization | KPI Reporting | Dashboard Development | Business Intelligence
 
-## Project Preview
-![Excel Sales Analysis Dashboard](dashboard.png)
-
-*Replace `dashboard.png` with the actual filename of your dashboard screenshot uploaded to the repository.*
-
